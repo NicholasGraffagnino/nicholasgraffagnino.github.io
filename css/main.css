@@ -161,7 +161,7 @@ span.ng-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 /* Scroll top */
 .scrolltop{
 	position: fixed;
-	right: .5rem;
+	right: 1rem;
 	bottom: -20%;
 	display: flex;
 	justify-content: center;
