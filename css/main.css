@@ -133,7 +133,7 @@ span.ng-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 	.ng-numbervalulist strong{ font-size: 30px; }
 	.ng-numbervalulist span{ font-size: 14px; }
 	.ng-about-section{ padding-bottom: 60px; }
-	.ng-about-section p,.ng-work-content-sec p,.ng-work-content-sec li{ font-size: 15px; line-height: 30px;margin-bottom: 30px; }
+	.ng-about-section p,.ng-about-section p span,.ng-work-content-sec p,.ng-work-content-sec li{ font-size: 15px; line-height: 30px;margin-bottom: 30px; }
 	.ng-skills-list li{ margin-right: 10px; margin-bottom: 10px; font-size: 14px; }
 	.ng-skills-section .col-12,.ng-experience-list .col-12{ margin-bottom: 40px; }
 	.ng-skills-section,.ng-work-section, .ng-experience-section{ padding-bottom: 0; }
